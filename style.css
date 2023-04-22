@@ -159,7 +159,10 @@ tfoot{
     font-weight: 500;
 }
 .last-child{
-    padding-bottom: 26px;
+    padding:12px 30px 28px;
+}
+.first-child{
+    padding: 25px 30px 12px !important;
 }
 
 
